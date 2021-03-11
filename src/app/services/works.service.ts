@@ -45,7 +45,7 @@ export class WorkService{
         {
             title: 'MicroKid',
             description: 'Child care education application for pregnant or expectant mothers includes a reminder to pick up the groceries given by the government.',
-            link: 'https://github.com/xandyx2014/microkitApp/blob/main/README.md'
+            link: 'https://github.com/xandyx2014/microkitApp/blob/master/README.md'
         },
         {
             title: 'Party plus',
