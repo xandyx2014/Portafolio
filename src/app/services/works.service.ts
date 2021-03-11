@@ -8,6 +8,11 @@ export class WorkService{
             link: 'https://github.com/xandyx2014/Adoption-finder/blob/main/README.md'
         },
         {
+            title: 'Instant-Gaming-copy',
+            description: 'Platform inspired by instant gaming where you can create your games categories of games users order, order management, has a search engine to facilitate finding the desired game.',
+            link: 'https://github.com/xandyx2014/instant-gaming-copy/blob/main/README.md'
+        },
+        {
             title: 'Q&Q',
             description: 'Application to order electrical goods where you have your cart, user and you can place your orders online just by adding your current location.',
             link: 'https://github.com/xandyx2014/Q-Q-app/blob/main/README.md'
