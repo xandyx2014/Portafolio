@@ -34,7 +34,7 @@ export class WorkService{
         },
         {
             title: 'App Olivos',
-            description: 'asdnjioasd',
+            description: 'Application for customer care, nutrition control and food control and delivery of food in a certain amount of time and information for health care.',
             link: 'https://github.com/xandyx2014/Control-nutricional-Frontend-App/blob/master/README.md'
         },
         {
