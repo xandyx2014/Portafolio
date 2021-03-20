@@ -8,6 +8,11 @@ export class WorkService{
             link: 'https://github.com/xandyx2014/Adoption-finder/blob/main/README.md'
         },
         {
+            title: 'MovieAppReact',
+            description: 'Application created in react native consuming The moviedb api using react native paper for the UI components. .',
+            link: 'https://github.com/xandyx2014/My-Movie-app/blob/main/README.md'
+        },
+        {
             title: 'Instant-Gaming-copy',
             description: 'Platform inspired by instant gaming where you can create your games categories of games users order, order management, has a search engine to facilitate finding the desired game.',
             link: 'https://github.com/xandyx2014/instant-gaming-copy/blob/main/README.md'
