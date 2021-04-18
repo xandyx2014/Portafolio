@@ -8,6 +8,11 @@ export class WorkService{
             link: 'https://github.com/xandyx2014/Adoption-finder/blob/main/README.md'
         },
         {
+            title: 'Bobino Control',
+            description: 'Application for bovine fattening and fattening of dairy cows where the calculation history is saved for future previews, it was made with the Ge',
+            link: 'https://github.com/xandyx2014/control_bobino_app/blob/master/README.md'
+        },
+        {
             title: 'MovieAppReact',
             description: 'Application created in react native consuming The moviedb api using react native paper for the UI components. .',
             link: 'https://github.com/xandyx2014/My-Movie-app/blob/main/README.md'
@@ -52,11 +57,6 @@ export class WorkService{
             title: 'Bids App',
             description: 'Simple application for music albums',
             link: 'https://github.com/xandyx2014/Bids-app/blob/main/README.md'
-        },
-        {
-            title: 'Bobino Control',
-            description: 'Application for bovine fattening and fattening of dairy cows where the calculation history is saved for future previews, it was made with the Ge',
-            link: 'https://github.com/xandyx2014/control_bobino_app/blob/master/README.md'
         },
          {
             title: 'Qr app Detector',
