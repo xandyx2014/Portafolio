@@ -22,16 +22,7 @@ export class WorkService{
             description: 'Application to order electrical goods where you have your cart, user and you can place your orders online just by adding your current location.',
             link: 'https://github.com/xandyx2014/Q-Q-app/blob/main/README.md'
         },
-        {
-            title: 'Qr app Detector',
-            description: 'QR application for personnel access - this is the part of the security guard who will verify that the QR generated is valid or not.',
-            link: 'https://github.com/xandyx2014/Qr.guard-detector/blob/main/README.md'
-        },
-        {
-            title: 'Qr app Cliente ',
-            description: 'QR application for personnel access this is the part that generates an invitation QR to give access to the guest and then the security guard will verify that the generated QR is valid or not.',
-            link: 'https://github.com/xandyx2014/Qr-Guard-cliente/blob/main/README.md'
-        },
+       
         {
             title: 'Calculate nutritional',
             description: 'Application for customer care, nutrition control and food control and delivery of food in a certain amount of time and information for health care. ',
@@ -66,6 +57,16 @@ export class WorkService{
             title: 'Bobino Control',
             description: 'Application for bovine fattening and fattening of dairy cows where the calculation history is saved for future previews, it was made with the Ge',
             link: 'https://github.com/xandyx2014/control_bobino_app/blob/master/README.md'
+        },
+         {
+            title: 'Qr app Detector',
+            description: 'QR application for personnel access - this is the part of the security guard who will verify that the QR generated is valid or not.',
+            link: 'https://github.com/xandyx2014/Qr.guard-detector/blob/main/README.md'
+        },
+        {
+            title: 'Qr app Cliente ',
+            description: 'QR application for personnel access this is the part that generates an invitation QR to give access to the guest and then the security guard will verify that the generated QR is valid or not.',
+            link: 'https://github.com/xandyx2014/Qr-Guard-cliente/blob/main/README.md'
         },
     ];
 }
