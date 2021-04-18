@@ -50,6 +50,12 @@ export class SkillsService{
             'react',
             ''
         ),
+         new Skill(
+            'Redux',
+            'p-80',
+            'redux',
+            ''
+        ),
         new Skill(
             'Angular',
             'p-80',
