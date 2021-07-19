@@ -9,6 +9,12 @@ export class WorkService {
       link: 'https://github.com/xandyx2014/Adoption-finder/blob/main/README.md',
     },
     {
+      title: 'DietaNut',
+      description:
+        'Platform control and creation of your diets according to the groups and foods of the diets, making the diets and controlling the properties of this, then being able to print a report of these.',
+      link: 'https://github.com/xandyx2014/Control-de-dieta-app/blob/main/README.md',
+    },
+    {
       title: 'HemoVirtual',
       description:
         "Information platform of the patient's medical consultations, where you can see your consultations depending on which category it is.",
