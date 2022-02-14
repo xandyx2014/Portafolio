@@ -9,6 +9,12 @@ export class WorkService {
       link: 'https://github.com/xandyx2014/Adoption-finder/blob/main/README.md',
     },
     {
+      title: 'Nutricare',
+      description:
+        'Dietary calculator for patients where you can calculate the anthropometric data of the patients food frequency and medical history, facilitating its visualization in a simple way through graphs or others.',
+      link: 'https://github.com/xandyx2014/NutriCare-view/blob/main/README.md',
+    },
+    {
       title: 'DietaNut',
       description:
         'Platform control and creation of your diets according to the groups and foods of the diets, making the diets and controlling the properties of this, then being able to print a report of these.',
